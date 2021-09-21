@@ -192,6 +192,9 @@ a:focus, a:hover{
     top: 0;
     z-index: 999;
     #header{
+        @media only screen and (max-width : 1440px){
+            position: fixed;
+        }
         @include block;
         .container {
             max-width: 100%;
@@ -353,10 +356,6 @@ a:focus, a:hover{
 						li + li{
 							margin-left: 10px;
 						}
-					}
-                    @media only screen and (max-width : 1440px) {
-                        margin-top: -6em;
-                        width: 85%;
                     }
             	}
             }

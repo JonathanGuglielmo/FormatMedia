@@ -166,6 +166,11 @@ a:focus, a:hover {
   width: 100%;
   display: block;
 }
+@media only screen and (max-width: 1440px) {
+  #wrapper_header #header {
+    position: fixed;
+  }
+}
 #wrapper_header #header .container {
   max-width: 100%;
   padding: 30px 3.33333vw 30px;
@@ -409,12 +414,6 @@ a:focus, a:hover {
 }
 #wrapper_header #header .container nav #m_nav_container .social li + li {
   margin-left: 10px;
-}
-@media only screen and (max-width: 1440px) {
-  #wrapper_header #header .container nav #m_nav_container {
-    margin-top: -6em;
-    width: 85%;
-  }
 }
 #wrapper_header #header .container #toggle_m_nav {
   width: 1.6vw;
