@@ -147,7 +147,6 @@
 					z-index: 3;
 					left: 0;
 					top: 0;
-					background-color: #101010;
 					@include prefixonprop(transform, scaleY(1));
 					transform-origin: top;
 					@include prefixonprop(transition, transform(cubic-bezier(.25,.1, -.1,1)));
