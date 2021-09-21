@@ -1732,6 +1732,7 @@ body.dark .formulario h3 {
   #hero .container .text_middle h2 {
     font-size: 48px;
     line-height: 1;
+    margin-top: -0.3em;
   }
   #hero .container .text_middle .words_container {
     height: 45px;
