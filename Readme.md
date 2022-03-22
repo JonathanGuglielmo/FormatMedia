@@ -1,6 +1,6 @@
 <h1 align="center">Format Media</h1>
 
-<h1 align="center">https://goofy-bardeen-ebe263.netlify.app/amazing</h1>
+<h1 align="center">https://jonathanguglielmo.github.io/FormatMedia/</h1>
 
 <h3 align="center">Agencia digital</h3>
 
